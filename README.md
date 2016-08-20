@@ -1,11 +1,12 @@
 # FinalFantasy7
-Known issue 
 
+Known issue 
+===========
 
 
 [PC version]
 
-* Lack of controller support like Xbox360 (it sometimes not works and you need to start the controller before or after the game so that it can recgnorize it)
+* Lack of [controller support](https://steamcommunity.com/app/39140/discussions/0/365163686073278901/) like [Xbox360](https://steamcommunity.com/app/39140/discussions/0/365163686058415982/) (it sometimes not works and you need to start the controller before or after the game so that it can recgnorize it)
 * [Black screen problem](http://forums.qhimm.com/index.php?topic=7641.0) with some codec packs 
 * If Sneak Attack is used to revive fallen party members their ATB bars will never fill up
 * The phenomenon of seeing Aeris's "ghost" in the Sector 5 Church is associated with glitches, although the ghost itself is intended to appear. Some enemies have glitched attack patterns where they are meant to use a certain attack but never do. These bugs go largely unnoticed by players.
@@ -19,6 +20,8 @@ Known issue
 * [Back attack glitch](http://finalfantasy.wikia.com/wiki/Back_attack_glitch)
 * [Blackout world glitch](http://finalfantasy.wikia.com/wiki/Blackout_world_glitch)
 * [Bypass event glitch](http://finalfantasy.wikia.com/wiki/Bypass_event_glitch)
+* [Damage overflow glitch](http://finalfantasy.wikia.com/wiki/Damage_overflow_glitch_in_Final_Fantasy_VII)
+* [Debug Room](http://finalfantasy.wikia.com/wiki/Debug_Room_(Final_Fantasy_VII))
 * [Dancing Tifa glitch](http://finalfantasy.wikia.com/wiki/Dancing_Tifa_glitch)
 * [Diamond Weapon glitch](http://finalfantasy.wikia.com/wiki/Diamond_Weapon_glitch)
 * [Emerald Weapon countdown glitch](http://finalfantasy.wikia.com/wiki/Emerald_Weapon_countdown_glitch)
@@ -48,3 +51,12 @@ Known issue
 * W-Item duplication bug
 * [Wutai save glitch](http://finalfantasy.wikia.com/wiki/Wutai_save_glitch)
 * [Yuffie warping glitch](http://finalfantasy.wikia.com/wiki/Yuffie_warping_glitch)
+* [Bar Skip softlock]
+* No proper OpenGL port, which means [no Mac OS support](http://forums.eu.square-enix.com/showthread.php?t=1318)
+* [Scanline issue](https://steamcommunity.com/app/39140/discussions/0/594820656463160427/)
+* Several sound issue
+
+
+[PS 4]
+
+* [Music loop glitch](http://forums.eu.square-enix.com/showthread.php?t=190517)
